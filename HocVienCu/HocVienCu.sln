@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HocVienCu", "HocVienCu.csproj", "{962F979A-619D-4847-85DB-F4AC52996D2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDT", "..\..\..\..\Lap trinh 1\CDT\CDT.csproj", "{A48C0424-B640-40F9-9F72-9D96667B6160}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = ..\\..\\..\\..\\Lap\u0020trinh\u00201\\CDT\\CDT.csproj
+		SccProjectName0 = \u0022$/Source/CDT\u0022,\u0020WGAAAAAA
+		SccLocalPath0 = ..\\..\\..\\..\\Lap\u0020trinh\u00201\\CDT
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{962F979A-619D-4847-85DB-F4AC52996D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962F979A-619D-4847-85DB-F4AC52996D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962F979A-619D-4847-85DB-F4AC52996D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962F979A-619D-4847-85DB-F4AC52996D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48C0424-B640-40F9-9F72-9D96667B6160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48C0424-B640-40F9-9F72-9D96667B6160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48C0424-B640-40F9-9F72-9D96667B6160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48C0424-B640-40F9-9F72-9D96667B6160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
